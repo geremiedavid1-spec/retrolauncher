@@ -1,0 +1,11 @@
+﻿{
+  "retroRoot": "C:\\Users\\gerem\\Desktop\\retro",
+  "cacheDir": "C:\\Users\\gerem\\Desktop\\retro\\data\\cache\\unzip",
+  "dbPath": "C:\\Users\\gerem\\Desktop\\retro\\data\\retro-launcher.db",
+
+  "retroarchExe": "C:\\RetroArch-Win64\\retroarch.exe",
+  "retroarchCoresDir": "C:\\RetroArch-Win64\\cores",
+
+  "fceuxExe": "C:\\Users\\gerem\\Desktop\\retro\\fceux-2.6.6-win64\\fceux.exe",
+  "neoRagexExe": "C:\\Users\\gerem\\Desktop\\retro\\Neo Geo\\NeoRAGEx 5.0.exe"
+}

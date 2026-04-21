@@ -1,0 +1,12 @@
+﻿{
+  "GB":  { "type": "retroarch", "core": "gambatte_libretro.dll", "ext": [".gb"] },
+  "GBC": { "type": "retroarch", "core": "gambatte_libretro.dll", "ext": [".gbc"] },
+  "GBA": { "type": "retroarch", "core": "mgba_libretro.dll", "ext": [".gba"] },
+
+  "GG":  { "type": "retroarch", "core": "genesis_plus_gx_libretro.dll", "ext": [".gg"] },
+  "MD":  { "type": "retroarch", "core": "genesis_plus_gx_libretro.dll", "ext": [".md", ".smd", ".gen"] },
+  "LNX": { "type": "retroarch", "core": "handy_libretro.dll", "ext": [".lnx"] },
+
+  "NES": { "type": "fceux_zip_single_nes", "ext": [".zip"], "romExtInsideZip": [".nes"] },
+  "NEOGEO": { "type": "neoragex_open_only", "ext": [".zip"] }
+}
